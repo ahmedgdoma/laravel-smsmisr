@@ -1,5 +1,5 @@
 {
-    "name": "baklysystems/smsmisr",
+    "name": "baklySystems/smsmisr",
     "description": "sending sms with smsmisr account",
     "type": "package",
     "authors": [
